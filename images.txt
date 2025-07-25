@@ -1,2 +1,2 @@
-metabase/metabase:lastest
+docker.rainbond.cc/metabase/metabase:latest
 
