@@ -1,2 +1,2 @@
-docker.rainbond.cc/metabase/metabase:latest
+docker.imgdb.de/metabase/metabase:latest
 
