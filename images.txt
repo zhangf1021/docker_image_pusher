@@ -1,2 +1,2 @@
-docker.imgdb.de/metabase/metabase:latest
+docker.m.daocloud.io/metabase/metabase:latest
 
