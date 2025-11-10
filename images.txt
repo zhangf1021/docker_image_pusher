@@ -1,2 +1,2 @@
-metabase/metabase:0.45
+metabase/metabase:0.43
 
