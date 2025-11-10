@@ -1,2 +1,2 @@
-metabase/metabase:0.43.73
+metabase/metabase:0.43.7.3
 
